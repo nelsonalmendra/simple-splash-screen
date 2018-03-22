@@ -22,7 +22,7 @@ In res -> values -> styles.xml you create a new style with SplashTheme name and 
 </style>
 ```
 
-In res -> drawable folder you will create a background_splash.xml with two layers, a white background and the launcher icon the in center. You can customize this xml file the way you want.
+In res -> drawable folder you will create a background_splash.xml with two layers, a white background and the launcher icon in the center. You can customize this xml file the way you want.
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
